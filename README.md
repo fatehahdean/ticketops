@@ -1,12 +1,12 @@
 # TicketOps 🎫
 
-A cloud-support ticketing console that models the full **ITR (Issue-to-Resolution) lifecycle** — built with React, designed around how real ITSM systems (ServiceNow, Jira Service Management) actually work.
+A cloud-support ticketing console that models the full **ITR (Issue-to-Resolution) lifecycle** built with React, designed around how real ITSM systems (ServiceNow, Jira Service Management) actually work.
 
 **Live demo:** _(add your GitHub Pages / CodeSandbox link here)_
 
 ## Why I built this
 
-Support engineering runs on the ticket lifecycle: intake → triage → work → escalation → resolution → closure, all under SLA pressure. I built TicketOps to understand that lifecycle from the inside — not just as a user of a ticketing tool, but as the person who has to make its rules explicit in code.
+Support engineering runs on the ticket lifecycle: intake → triage → work → escalation → resolution → closure, all under SLA pressure. I built TicketOps to understand that lifecycle from the inside, not just as a user of a ticketing tool, but as the person who has to make its rules explicit in code.
 
 ## Features
 
